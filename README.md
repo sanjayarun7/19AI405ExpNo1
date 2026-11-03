@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: BHUVANESH.K
-<h3>Register Number: 212224230037
+<h3>Name: SANJAY A
+<h3>Register Number: 212224040288
 
 
 <h3>AIM:</h3>
